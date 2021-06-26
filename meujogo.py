@@ -1,5 +1,7 @@
 # Aluna: Karoline Zantedeschi Soares
 #1 Semestre: Ciências da Computação
+# Nota: professor não consegui terminar todo o jogo. O intuit era fazer um jogo ao qual teria troca de cenaríos onde as moedas de ouro seriam arrecadas como pontos e ao longo do jogo iriam...
+# ... ter adversário pelo caminho. Porém o jogo não esta completo
 
 import pygame 
 import os
